@@ -3,7 +3,7 @@ Zine:
 
 # What It Is and Why I Made It
 
-A custom shaped PCB designed to look like a crown with 12 LEDs with a USB A connector at the bottom. If you plug it to a power source and swithc it on, it lights up all at once. Quite simple project as I am a beginner and wanted to make something similar to:
+A custom shaped PCB designed to look like a crown with 12 LEDs with a USB A connector at the bottom. If you plug it to a power source and switch it on, it lights up all at once. Quite simple project as I am a beginner and wanted to make something similar to:
 https://www.instagram.com/p/DPHaJFgCGyA/
 But couldn't figure it out so went for a simpler goal.
 

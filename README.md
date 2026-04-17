@@ -22,7 +22,6 @@ Bill of Materials in CSV:
 | J1 | USB Type-A Connector | USB Type-A female power input | 1 | Amphenol | 787480-1 | LCSC | C46407 | $0.15 | $0.15 |
 | R1 | Resistor 150Ω | Current limiting resistor 1/4W | 1 | Yageo | CFR-25JB-52-150R | LCSC | C114688 | $0.01 | $0.01 |
 | SW1 | Slide Switch | SPDT slide switch power on/off | 1 | C&K | OS102011MS2QN1 | LCSC | C128955 | $0.10 | $0.10 |
-| PCB | Crown PCB | Custom green PCB, crown shape | 1 | JLCPCB | Custom | JLCPCB | N/A | $1.00 | $1.00 |
 
 JLCPCB:
 <img width="1910" height="789" alt="image" src="https://github.com/user-attachments/assets/b1c55850-53e5-47e9-8535-901220a992ba" />

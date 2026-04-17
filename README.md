@@ -1,5 +1,3 @@
-<img width="1910" height="789" alt="image" src="https://github.com/user-attachments/assets/b09e901d-3eb3-408f-a867-d59452e48910" />[crown_led_pcb_bom.csv](https://github.com/user-attachments/files/26826615/crown_led_pcb_bom.csv)# Crown-Of-Currents
-
 Zine:
 <img width="1410" height="2000" alt="Crown Of Currents (1)" src="https://github.com/user-attachments/assets/45e53d4b-d5c7-461b-b996-b6efa5ff576d" />
 
@@ -17,13 +15,14 @@ But couldn't figure it out so went for a simpler goal.
 
 Bill of Materials in CSV:
 [crown_led_pcb_bom.csv](https://github.com/user-attachments/files/26826730/crown_led_pcb_bom.csv)
-Reference,Component,Description,Quantity,Manufacturer,Manufacturer Part #,Supplier,Supplier Part #,Unit Price (USD),Extended Price (USD)
-D1-D12,5mm Red LED,Through-hole red LED 5mm,12,Kingbright,WP7113ID,LCSC,C2296,$0.05,$0.60
-J1,USB Type-A Connector,USB Type-A female power input,1,Amphenol,787480-1,LCSC,C46407,$0.15,$0.15
-R1,Resistor 150Ω,Current limiting resistor 1/4W 150 Ohm,1,Yageo,CFR-25JB-52-150R,LCSC,C114688,$0.01,$0.01
-SW1,Slide Switch,SPDT slide switch power on/off,1,C&K,OS102011MS2QN1,LCSC,C128955,$0.10,$0.10
-PCB,Crown-shaped PCB,Custom green PCB crown profile with arc cutout,1,JLCPCB/PCBWay,Custom,JLCPCB,N/A,$1.00,$1.00
-,,,,,,,,Total:,$1.86
+
+| Reference | Component | Description | Qty | Manufacturer | Mfr Part # | Supplier | Supplier Part # | Unit Price | Extended Price |
+|-----------|-----------|-------------|-----|-------------|------------|----------|----------------|------------|----------------|
+| D1–D12 | 5mm Red LED | Through-hole red LED 5mm | 12 | Kingbright | WP7113ID | LCSC | C2296 | $0.05 | $0.60 |
+| J1 | USB Type-A Connector | USB Type-A female power input | 1 | Amphenol | 787480-1 | LCSC | C46407 | $0.15 | $0.15 |
+| R1 | Resistor 150Ω | Current limiting resistor 1/4W | 1 | Yageo | CFR-25JB-52-150R | LCSC | C114688 | $0.01 | $0.01 |
+| SW1 | Slide Switch | SPDT slide switch power on/off | 1 | C&K | OS102011MS2QN1 | LCSC | C128955 | $0.10 | $0.10 |
+| PCB | Crown PCB | Custom green PCB, crown shape | 1 | JLCPCB | Custom | JLCPCB | N/A | $1.00 | $1.00 |
 
 JLCPCB:
 <img width="1910" height="789" alt="image" src="https://github.com/user-attachments/assets/b1c55850-53e5-47e9-8535-901220a992ba" />

@@ -1,5 +1,0 @@
-Reference,Component,Description,Qty,Manufacturer,Mfr Part #,Unit Price,Extended Price,LCSC Link,DigiKey Link
-D1–D12,5mm Red LED,Through-hole red LED 5mm,12,Kingbright,WP7113ID,$0.05,$0.60,https://www.lcsc.com/product-detail/C2296.html,https://www.digikey.com/en/products/detail/kingbright/WP7113ID/1747663
-J1,USB Type-A Connector,USB Type-A female power input,1,Amphenol,787480-1,$0.15,$0.15,https://www.lcsc.com/product-detail/C46407.html,https://www.digikey.com/en/products/detail/amphenol-icc-commercial-products/787480-1/1877272
-R1,Resistor 150Ω,Current limiting resistor 1/4W,1,Yageo,CFR-25JB-52-150R,$0.01,$0.01,https://www.lcsc.com/product-detail/C114688.html,https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-150R/469
-SW1,Slide Switch,SPDT slide switch power on/off,1,C&K,OS102011MS2QN1,$0.10,$0.10,https://www.lcsc.com/product-detail/C128955.html,https://www.digikey.com/en/products/detail/c-k/OS102011MS2QN1/411602
